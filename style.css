@@ -97,3 +97,17 @@ header h1{
 font-size:2.3rem;
 }
 }
+.press-header{
+height:50vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+background:linear-gradient(135deg,#000,#111);
+}
+
+.press-img{
+width:100%;
+border-radius:12px;
+  }
