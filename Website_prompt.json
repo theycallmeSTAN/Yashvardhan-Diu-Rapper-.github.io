@@ -1,0 +1,34 @@
+{
+  "project": "Independent Rap Artist Website",
+  "style": "dark hip-hop premium",
+  "goal": [
+    "artist branding",
+    "google visibility",
+    "beginner education hub",
+    "social media growth"
+  ],
+  "sections": [
+    "hero",
+    "about",
+    "mission cards",
+    "beginner resources",
+    "music embed",
+    "social links",
+    "footer"
+  ],
+  "seo": {
+    "schema": "MusicGroup",
+    "keywords": [
+      "Indian rapper",
+      "Diu hip hop artist",
+      "Mumbai rapper",
+      "beginner rap guide"
+    ]
+  },
+  "design": {
+    "theme": "dark",
+    "accent": "neon pink",
+    "responsive": true,
+    "minimal": true
+  }
+}
